@@ -1,5 +1,5 @@
 # docker-stater-for-laravel
-Laravel App Starter using apache,mysql,mysqladmin with Docker Compose 
+Laravel App Starter using apache,mysql,phpmyadmin with Docker Compose 
 ##### Folder Structure
 ============================
 
