@@ -6,7 +6,7 @@ Laravel App Starter using apache,mysql,mysqladmin with Docker Compose
     .
     ├── docker-compose.yml
     ├── Dockerfile
-    ├── dump
+    ├── mysql-dump
     │   └── sampledb.sql #Databse dump file
     ├── sessions
     └── www
